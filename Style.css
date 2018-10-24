@@ -1,0 +1,23 @@
+table, td {
+    border: 1px solid black;
+}
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/10/Blurred-blue-background-hd-1920x1080.jpg);
+    background-repeat: repeat;
+
+}
+h1{color: #000000;
+background-image: url(https://wallpaperlayer.com/img/2015/8/blurry-circles-wallpaper-1840-1988-hd-wallpapers.jpg);
+font-family: verdana;
+font-size: 400%;
+width: 11.22%
+}
+th{
+    color: white;
+    font-family: courier;
+    font-size: 100%; 
+}
+td{
+    color: white;
+    font-family: courier;
+    font-size: 100%; 
