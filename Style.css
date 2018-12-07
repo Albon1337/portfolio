@@ -1,35 +1,41 @@
-table, td {
-    border: 1px solid white;
-}
+
 body{
-    background-color: orangered
+    background-color: #1496BB
 
 }
-
 h1{color: white;
-font-family: verdana;
+font-family: "Comic Sans MS", cursive, sans-serif;
 font-size: 200%;
-width: 11.22%;
+width: 100%;
 text-align: center;
-}
 
+}
 th{
     color: white;
-    font-family: courier;
+    font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 100%; 
-}
 
+}
+table{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px; 
+
+}
 h1{
-    width: 150px;
+    width: 300px;
     border: 5px solid white;
     padding: 30px;
     margin: 25px auto;
+
 }
 h2, h3, h4, h5, h6{
     width: 150px;
     border: 5px solid white;
     padding: 30px;
     margin: 25px;
+
 }
 p{
     width: 300px;
@@ -43,11 +49,11 @@ ol{
     border: 5px solid white;
     padding: 30px;
     margin: 25px;
-}
 
+}
 td{
     color: white;
-    font-family: courier;
     font-size: 100%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 
 }
