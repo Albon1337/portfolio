@@ -1,8 +1,8 @@
-/* Börja alltid en css-fil med följande rad:
 @charset "utf-8";
-*/
+
 body{
-    background-color: #1496BB
+    background-color: #009900
+
 
 }
 h1{color: white;
@@ -23,28 +23,31 @@ table{
     border-radius: 10px;
     padding: 20px;
     margin: 5px; 
-
+    
 }
 h1{
     width: 300px;
     border: 5px solid white;
     padding: 20px;
     margin: 25px auto;
-
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white
 }
 h2, h3, h4, h5, h6{
     width: 150px;
     border: 5px solid white;
     padding: 30px;
     margin: 25px;
-
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white
 }
 p{
     width: 300px;
     border: 5px solid white;
     padding: 30px; 
     margin: 25px;
-    
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white
 }
 ol{
     width: 150px;
