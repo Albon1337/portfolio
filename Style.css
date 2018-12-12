@@ -1,4 +1,6 @@
-
+/* Börja alltid en css-fil med följande rad:
+@charset "utf-8";
+*/
 body{
     background-color: #1496BB
 
