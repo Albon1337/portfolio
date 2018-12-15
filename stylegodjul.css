@@ -3,8 +3,7 @@
 
 
 body{
-    background-color: #264d00
-
+    background-image: url("https://cdn.discordapp.com/attachments/498436241637769217/523112411541143553/pexels-photo-1020754.png")
 }
 title{
     text-align: center;
@@ -24,16 +23,18 @@ h3{
     text-align: center;
     color: white; 
 }
-img {
+img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-}
+
+} 
 p{
     text-align: center;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 100%;
     color: white;
 }
+  
 @import url('https://fonts.googleapis.com/css?family=Charm');
